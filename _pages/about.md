@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: icon3.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Urbana, IL 61801</p>
@@ -14,9 +14,11 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, it's Cheng Ding. I'm an undergraduate student majoring in Computer Science at University of Science and Technology of China (USTC), and I'm currently a research intern at UIUC working with Prof. Tianyin Xu and Prof. Owolabi Legunsen on Runtime Verification.
+Hi, it's Cheng Ding. 
 
-My research interests are in software engineering and systems, with an emphasis on developing guarantees for the reliability of programs. I am applying for a Ph.D. program starting from 2024Fall. 
+I'm a senior undergraduate student majoring in Computer Science at University of Science and Technology of China (USTC), and currently a research intern at UIUC working with Prof. [Tianyin Xu](https://tianyin.github.io/) and Prof. [Owolabi Legunsen](https://www.cs.cornell.edu/~legunsen/) on Runtime Verification.
+
+My research interests are in **software engineering** and **systems**, with an emphasis on developing guarantees for **reliability** of programs. I am applying for Ph.D. programs starting from 2024Fall. 
