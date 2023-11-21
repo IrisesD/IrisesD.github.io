@@ -6,7 +6,7 @@ description: 记录参加Hackergame 2023的经历以及题解
 tags: hackergame
 categories: experience
 giscus_comments: false
-related_posts: false
+related_posts: true
 related_publications: false
 ---
 以前一直有听过Hackergame，但一直没参加。这次正好看到群友在讨论，便怀着好奇的心态点开，结果就一发不可收拾了。（确实有意思）
