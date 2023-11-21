@@ -16,8 +16,7 @@ related_publications: false
 下面是题解：
 
 #### Hackergame 启动
-签到题，首先打开界面：
-![](https://raw.githubusercontent.com/IrisesD/IrisesD.github.io/gh-pages/assets/img/hg_1.png)
+签到题，首先打开界面
 
 随便录制一段音频提交，发现url变成了：
 ```
@@ -37,15 +36,14 @@ flag{W3!COme-T0-hackeR94Me-anD-3NJoY-H@CKIN9-Z0z3}
 > 1. 想要借阅世界图书出版公司出版的《A Classical Introduction To Modern Number Theory 2nd ed.》
 应当前往中国科学技术大学西区图书馆的哪一层？（30 分）
 
-直接打开图书馆网站，检索馆藏分布：
-![](https://raw.githubusercontent.com/IrisesD/IrisesD.github.io/gh-pages/assets/img/hg_2.png)
+直接打开图书馆网站，检索馆藏分布
 
 不难发现，外文书库在12楼，因此答案为`12`
 
 > 2. 今年 arXiv 网站的天体物理版块上有人发表了一篇关于「可观测宇宙中的鸡的密度上限」的论文，请问论文中作者计算出的鸡密度函数的上限为 10 的多少次方每立方秒差距？（30 分）
 
 Google搜索:宇宙中鸡的数量密度上限
-![](https://raw.githubusercontent.com/IrisesD/IrisesD.github.io/gh-pages/assets/img/hg_3.png)
+
 在排名第一的[知乎回答](https://www.zhihu.com/question/20337132/answer/3023506910)中可以找到答案`23`
 
 > 3. 为了支持 TCP BBR 拥塞控制算法，在编译 Linux 内核时应该配置好哪一条内核选项？
@@ -57,17 +55,13 @@ Google搜索:宇宙中鸡的数量密度上限
 Google搜索`MyPY Python type checking halt problem`，找到[论文](https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.44/LIPIcs.ECOOP.2023.44.pdf)，得到答案`ECOOP`
 
 #### 更深更暗
-打开题目界面，点击检查，即可找到flag:
-![](https://raw.githubusercontent.com/IrisesD/IrisesD.github.io/gh-pages/assets/img/hg_4.png)
+打开题目界面，点击检查，即可找到flag
 
 #### 旅行照片 3.0
 我超，盒！
 开盒题感觉还是很有意思的。
 
-线索首先在：
-![](https://raw.githubusercontent.com/IrisesD/IrisesD.github.io/gh-pages/assets/img/hg_5.jpeg)
-
-从图上的肩带可以看出，学长将要去参加STATPHYS28，这个是最大的突破口
+线索首先在拉面店的图片中，从图上的肩带可以看出，学长将要去参加STATPHYS28，这个是最大的突破口
 Google搜索STATPHYS28，在官方主页中点击Banquet：
 https://statphys28.org/banquet.html
 
@@ -95,7 +89,6 @@ https://en.wikipedia.org/wiki/Takaaki_Kajita
 > 3、帐篷中活动招募志愿者时用于收集报名信息的在线问卷的编号（以字母 S 开头后接数字）是多少？
 
 Googl搜索图片得到该地点为上野公园。搜索`上野公園 2023年8月10`
-![](https://raw.githubusercontent.com/IrisesD/IrisesD.github.io/gh-pages/assets/img/hg_6.png)
 
 在网站中可以找到志愿者报名表格链接https://ws.formzu.net/dist/S495584522/
 得到答案
@@ -106,9 +99,8 @@ S495584522
 > 4、学长购买自己的博物馆门票时，花费了多少日元？
 
 文字信息提到学长看到志愿者招募活动是在"马路对面"，首先打开google map搜索上野恩賜公園 噴水広場。
-![](https://raw.githubusercontent.com/IrisesD/IrisesD.github.io/gh-pages/assets/img/hg_7.png)
 
-由此可知提到的博物馆为东京国立博物馆。稍加搜索可知，门票对大学生免费，学长是东京大学学生，因此答案为`0`.
+可知提到的博物馆为东京国立博物馆。稍加搜索可知，门票对大学生免费，学长是东京大学学生，因此答案为`0`.
 
 > 6、进站时，你在 JR 上野站中央检票口外看到「ボタン＆カフリンクス」活动正在销售动物周边商品，该活动张贴的粉色背景海报上是什么动物（记作 A，两个汉字）？ 在出站处附近建筑的屋顶广告牌上，每小时都会顽皮出现的那只 3D 动物是什么品种？（记作 B，三个汉字）？（格式：A-B）
 
