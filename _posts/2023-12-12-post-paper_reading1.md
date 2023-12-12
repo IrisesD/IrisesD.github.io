@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Paper Reading Notes for `C2S: Translating Natural Language Comments to Formal
-Program Specifications`
+title: Paper Reading Notes for **Translating Natural Language Comments to Formal Program Specifications**
 date: 2023-12-12 12:00:00-0500
-description: Paper Reading Notes for `C2S: Translating Natural Language Comments to Formal
-Program Specifications`
+description: Paper Reading Notes for **Translating Natural Language Comments to Formal Program Specifications**
 tags: formal methods
 categories: paper reading
 giscus_comments: false
