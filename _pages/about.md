@@ -21,4 +21,4 @@ Hi, it's Cheng Ding.
 
 I'm a senior undergraduate student majoring in Computer Science at University of Science and Technology of China (USTC), and currently a research intern at UIUC working with Prof. [Tianyin Xu](https://tianyin.github.io/) and Prof. [Owolabi Legunsen](https://www.cs.cornell.edu/~legunsen/) on Runtime Verification.
 
-My research interests are in **software engineering** and **systems**, with an emphasis on developing **reliability** guarantees for programs. I am applying for Ph.D. programs starting from 2024Fall. 
+My research interests are in **software engineering** and **systems**, with an emphasis on developing **reliability** guarantees for programs.
