@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, it's Cheng Ding. 
 
-I'm a senior undergraduate student majoring in Computer Science at University of Science and Technology of China (USTC), and previously a research intern at UIUC working with Prof. [Tianyin Xu](https://tianyin.github.io/) and Prof. [Owolabi Legunsen](https://www.cs.cornell.edu/~legunsen/) on Runtime Verification.
+I'm a first year PhD student at the University of Texas at Austin(UT Austin), advised by Prof. [Milos Gligoric](https://users.ece.utexas.edu/~gligoric/). I got my Bachelor degree at the University of Science of Technology of China(USTC).
 
-My research interests are in **software engineering** and **systems**, with an emphasis on developing **reliability** guarantees for programs.
+My research interests are in **software engineering**. 
