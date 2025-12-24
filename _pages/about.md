@@ -24,4 +24,3 @@ I got my Bachelor degree at the University of Science of Technology of China(UST
 
 My research interests are in **software testing**, **verification**, **programming languages** and **databases**. 
 
-I'm serving as an Artifact Evaluation Committee member on International Symposium on Code Generation and Optimization (CGO) 2026.
