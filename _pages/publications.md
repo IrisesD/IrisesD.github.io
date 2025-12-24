@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+nav_title: Publications
 permalink: /publications/
 description: My publications.
 nav: true
@@ -10,6 +11,8 @@ hide_bibtex: true
 
 <!-- Renders publications from `_bibliography/papers.bib` via jekyll-scholar -->
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} %}
+</div>
 
 
