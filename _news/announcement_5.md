@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I served as an Artifact Evaluation Committee member on International Symposium on Code Generation and Optimization (CGO) 2026.
+I will serve as an Artifact Evaluation Committee member on International Symposium on Code Generation and Optimization (CGO) 2026.
