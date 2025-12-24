@@ -1,10 +1,11 @@
 ---
 layout: page
-title: publications
+title: Publications
 permalink: /publications/
-description: Publications.
+description: My publications.
 nav: true
 nav_order: 3
+hide_bibtex: true
 ---
 
 <!-- Renders publications from `_bibliography/papers.bib` via jekyll-scholar -->
