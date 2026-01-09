@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-nav_title: Publications
+title: publications
+nav_title: publications
 permalink: /publications/
 description: My publications.
 nav: true
