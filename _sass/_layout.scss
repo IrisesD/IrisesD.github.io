@@ -42,6 +42,31 @@ body.sticky-bottom-footer {
 
 // TODO: redefine publications layout.
 
+.publications {
+  ol.bibliography {
+    counter-reset: publication-counter;
+    list-style: none;
+    padding-left: 0;
+
+    li {
+      counter-increment: publication-counter;
+      position: relative;
+
+      &::before {
+        content: "[" counter(publication-counter) "]";
+        font-weight: bold;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+
+      .row {
+        padding-left: 2.5rem;
+      }
+    }
+  }
+}
+
 
 /*****************************************************************************
 * Projects
